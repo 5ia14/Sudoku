@@ -1,3 +1,3 @@
 SuperSudoku
 
-Supersudoku is currently under development.
+SuperSudoku is currently under development.
